@@ -1,0 +1,42 @@
+Countable(sayılabilen) --> apple, car vb.
+Uncountable(sayılamayan) --> pirinç, tuz vb.
+
+Soyut(abstract) --> life,advice,Knowledge
+Somut(conrete) -->Bread,apple,chair
+
+Tekil(Singular) --> Pencil
+Çoğul(Plural) --> Pencils
+*********************************************
+box --> boxes
+tomato --> tomatoes
+sandwich --> sandwiches
+glass --> glasses
+brush --> brushes
+
+family --> famiLyes
+bOy --> bOys
+
+knife --> knives
+wolf --> wolves
+---------------------------------------------
+man --> men
+woman --> women
+child --> children
+person --> people
+tooth --> teeth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

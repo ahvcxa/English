@@ -1,0 +1,16 @@
+"FİİL-Cümlesi"
+Ben(özne) pizza(nesne) severim(yüklem)
+
+I(subject"özne") like(verb"yüklem") pizza(object"nesne")
+
+"İSİM-Cümleleri"
+Bu bir pizzadır -->"olumsuz" -->Bu bir pizza değildir.
+ 
+this is a pizza -->"olumsuz" -->this is not a pizza
+
+"SORU Cümleleri"
+bu bir pizza mıdır ?
+
+is this a pizza ? 
+ 
+ 

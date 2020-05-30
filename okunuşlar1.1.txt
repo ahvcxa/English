@@ -1,0 +1,34 @@
+ÇİFT SESLİLERİN OKUNUŞ KURALLARI:
+"ai"-->é  -->nail(néyl) 
+"au"-->o  -->because(bikoz)
+"ea"-->i  -->eat(iit)
+"ee"-->i  -->tree(tri)
+"ew"-->yu -->new(niyu)
+"ie"-->i  -->niece(nis)
+"oa"-->o  -->coat(koot)
+"oe"-->u  -->shoe(şuu)
+"oo"-->u  -->book(buuk)
+"ou"-->au -->mouse(maus)
+"ow"-->ö  -->low(lö)
+******************************
+Bazı istisnalar:
+!"u" olarak okunan "oo" bazen "o" olarak okunur
+-->floor(flor)
+!"u" olarak onunan "oo" bazen de "a" olarak okunur
+-->blood(blad)
+!"ö" olarak okunan "ow" bazen "au" olarak okunur.
+-->how(hau)-->now(nau)
+*******************************
+ÇİFT SESSİZLERİN OKUNUŞU
+"ch"--> ç            --> cheese(çiiz) 
+"sh"--> ş            -->ship(şii)
+"th"--> dh(peltek s) -->the(dhı)
+"ph"--> f            -->photo(fötoğ)
+********************************
+Bazı istisnalar:
+!"ç" olarak okunan "ch" bazen "k" olarak okunur.
+-->school(skuul)
+!kelime sonuna denk geldiğnde genelde telaffuz edilmeyen "gh"
+ sesi bazen f olarak okunur.
+-->enough(inaf) 
+     

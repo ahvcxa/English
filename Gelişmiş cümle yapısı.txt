@@ -1,0 +1,8 @@
+Özne       Yüklem         Nesne     Belirteç       Yer          Zaman
+(Kim?)    (Ne Yaptı?)    (Neyi?)    (Nasıl?)      (Nerede?)     (Ne Zaman?)
+---------------------------------------------------------------------------
+HE         SOLD         HİS CAR     EASYİLY       AT LONDRA      LAST YEARS
+
+I         İNJURED       MY ARM       BADLY        AT THE GYM     YESTERDAY
+
+DİDEM     PLAYS         TENNİS                    AT SCHOOL 

@@ -1,0 +1,16 @@
+Bunlara Dikkat:
+-->"G" harfi önünde "e,i,y" harfleri varsa "c" şeklinde okunur.  -->page(peyc)
+-->"j" harfi daima "c" şeklinde okunur                           -->just(cast)
+--> "y" harfi kelime sonlarında "i" şeklinde okunur.             -->salty(solti)
+--> "s" harfi iki ünlü arasında ise "z" şeklinde okunur          -->result(rizalt)
+**********************************************************************************
+Bunlara Dikkat :
+-->"sch" harfleri  "sk" şeklinde okunur           --> scheme(skim)
+-->"kn" ile başlayanlarda "k" okunmaz             -->knife(nayf)
+-->"ho" ile  başlayanlarda "h" okunmaz            -->hour(avır)
+-->"wr" ile başlayanlarda "w" okunmaz             -->write(rayt)
+-->"u" ile başlayan kelimeler "uu" uzun okunur    -->unit(uunit)
+-->"tion" harfleri "şın" diye okunur.             -->function(fonkşın)
+  
+
+**********************************************************************************

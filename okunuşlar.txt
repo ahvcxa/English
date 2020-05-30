@@ -1,0 +1,27 @@
+"ey" sesi verenler --> a,h,j,k
+"i" sesi verenler --> b,c,d,e,g,p,t
+"e" sesi verenler --> f,l,m,n,s,x
+"ay" sesi verenler --> I,y
+"u" sesi verenler --> q,u,w
+****************************************
+A harfinin okunuşu:
+!Başta ise "e" ortada falan ise "ey"
+--> apple(epıl) --> table(teybıl)
+****************************************
+C harfinini okunuşu : 
+!Bundan sonra ince ünlüler(e,i) gelirse "s" şeklinde okunur
+-->city(siti)
+!Bundan sonra kalın ünlüler(a,o,u) gelirse "k" şeklinde okunur
+-->car(kar)
+!aradaki "c" yi ince ünlü izlerse "s" gibi fkat kalın ünlü izlerse "k" okunur
+-->common(kamın)(ortak) --> lecture(lekçır)(ders)
+
+*****************************************
+"G" harfinin okunuşu : 
+!(a,o,u,L,r) harflerinden önce gelirse "g" gibi
+-->good(gud)
+!(e,i) harflerindem önce gelirse g veya c olarak okunur 
+-->get(get)(almak)-->general(cenıral)(genel)
+!("gh") önüne "i" gelmedikçe "f" olarak okunur
+-->enough(inaf)(yeterli)
+*****************************************
